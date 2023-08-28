@@ -1,2 +1,7 @@
-
 /* Your CSS Code here. */
+.mb-4{
+	text-align:center;
+}
+.form-group{
+	width:100vw;
+}
